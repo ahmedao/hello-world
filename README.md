@@ -3,4 +3,4 @@ just another repository
 
 Hi people
 
-i like computet,i want to be programer but i need help until i become programmer
+i like computer,i want to be programer but i need help until i become programmer
